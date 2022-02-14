@@ -1,0 +1,15 @@
+Rappels :
+
+- Langage Front, exécuté par le navigateur client.
+( V8 moteur JS de Chrome, SpiderMonkey : moteur JS de Firefox )
+- Langage dont le typage est automatique et dynamique, et non fixe
+( ce qui donne l'impression qu'il n'est pas typé )
+- Langage interprété.
+
+->
+
+Permet :
+- Manipulation du DOM
+- Surveiller des événements
+
+Types :
